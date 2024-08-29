@@ -3,7 +3,7 @@ layout: home
 permalink: /
 ---
 
-## explic.AI (EXPLainable and Interpretable Constructs for Artificial Intelligence)
+<h1>>explic.AI (EXPLainable and Interpretable Constructs for Artificial Intelligence)</h1>
 
 *explic.AI* is a research project aimed at enhancing the transparency and interpretability of artificial intelligence systems. The project focuses on developing novel techniques and methodologies to make AI decision-making processes more understandable to humans. Key objectives include:
 
