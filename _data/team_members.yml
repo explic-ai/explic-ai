@@ -1,0 +1,18 @@
+- name: Dr. Luiz Celso Gomes-Jr
+  image: /assets/images/celso.jpg
+  title: Principal Investigator
+  role: Project Lead
+  bio: Dr. Smith has over 15 years of experience in quantum computing and leads our research efforts.
+
+- name: John Doe
+  image: /assets/images/john-doe.jpg
+  title: Ph.D. Candidate
+  role: Research Assistant
+  bio: John is focusing on algorithm optimization for quantum systems in his doctoral research.
+
+- name: Emily Brown
+  image: /assets/images/emily-brown.jpg
+  title: M.Sc. Student
+  role: Data Analyst
+  bio: Emily specializes in data visualization and statistical analysis of quantum experiments.
+
