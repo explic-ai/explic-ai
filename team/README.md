@@ -4,7 +4,19 @@ title: Our Team
 permalink: /team/
 ---
 
-# Meet Our Research Team
+<style>
+  .member-image {
+    height: 120px;
+    width: auto;
+    object-fit: cover;
+  }
+
+  .team-member {
+    margin-bottom: 30px;
+  }
+</style>
+
+## Meet Our Research Team
 
 {% for member in site.data.team_members %}
 <div class="team-member">
@@ -15,3 +27,9 @@ permalink: /team/
   <p>{{ member.bio }}</p>
 </div>
 {% endfor %}
+
+
+## Former Members
+
+
+
