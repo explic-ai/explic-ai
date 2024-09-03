@@ -12,7 +12,8 @@ plugins:
 header_pages:
  - about/README.md
  - team/README.md
- - llm-mri.md
+ - products.md
+ - publication.md
 
 minima:
   skin: classic

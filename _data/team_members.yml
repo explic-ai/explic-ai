@@ -2,17 +2,23 @@
   image: /assets/images/celso.jpg
   title: Principal Investigator
   role: Project Lead
-  bio: Dr. Smith has over 15 years of experience in quantum computing and leads our research efforts.
+  bio: Dr. Gomes-Jr is a professor at UTFPR and leads the explic.AI project.
 
-- name: John Doe
-  image: /assets/images/john-doe.jpg
-  title: Ph.D. Candidate
-  role: Research Assistant
-  bio: John is focusing on algorithm optimization for quantum systems in his doctoral research.
+- name: Dr. André Santanchè
+  image: 
+  title: Investigator
+  role: Researcher
+  bio: Dr. Santanchè is a professor at UNICAMP.
 
-- name: Emily Brown
-  image: /assets/images/emily-brown.jpg
+- name: Mateus Raganhan
+  image: 
   title: M.Sc. Student
-  role: Data Analyst
-  bio: Emily specializes in data visualization and statistical analysis of quantum experiments.
+  role: Researcher
+  bio: Raganhan is a M.Sc. student at UTFPR researching explainable artifacts that improve our comprehension of how AI systems represent expertise.
+
+  - name: Luiz Felipe Corradini
+  image: 
+  title: BSc Student
+  role: Developer/Researcher
+  bio: Corradini is a BSc student at Unicamp and is the main developer of the LLM-MRI library.
 
