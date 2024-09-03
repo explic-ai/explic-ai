@@ -10,7 +10,6 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
- - about/README.md
  - team/README.md
  - products.md
  - publication.md

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LLM-MRI
+title: Publication
 permalink: /publication/
 ---
 
@@ -14,9 +14,9 @@ FIGÊNIO, MATEUS R. ; GOMES-JR, LUIZ . Ética na era dos Modelos de Linguagem Ma
 
 SILVA, RODRIGO F. ; GOMES-JR, LUIZ . Python OAM: apresentação e uso de uma biblioteca de explicabilidade para processos de detecção de outliers. In: Simpósio Brasileiro de Banco de Dados, 2022, Brasil. Anais Estendidos do XXXVII Simpósio Brasileiro de Banco de Dados (SBBD Estendido 2022), 2022. p. 71.
 
-RODRIGUES, P. G. ; MENUZZO, VICTOR ANTONIO ; SILVEIRA, S. ; LUDERS, R. ; GOMES-JR, LUIZ . Data Analysis in the Airline Industry: Revealing the Impacts of COVID-19 on Global Air Transport (and Vice Versa). In: Escola Regional de Banco de Dados, 2022, Lages-SC. Anais do XVII Escola Regional de Banco de Dados, 2022.
-
 MIODUTZKI, DIONEI ; TACLA, CESAR ; GOMES-JR, LUIZ . Outlier detection with ontology-driven fault contextualization in the Industry 4.0. In: Simpósio Brasileiro de Banco de Dados, 2022, Brasil. Anais do XXXVII Simpósio Brasileiro de Banco de Dados (SBBD 2022), 2022. p. 267.
+
+MENUZZO, VICTOR ANTONIO ; SANTANCHÈ, ANDRÉ ; GOMES-JR, LUIZ . Evaluating the cohesion of municipalities? discourse during the COVID-19 pandemic. In: Simpósio Brasileiro de Banco de Dados, 2021, Brasil. Anais do XXXVI Simpósio Brasileiro de Banco de Dados (SBBD 2021), 2021. p. 295.
 
 BENGHI, FELIPE MARX ; GOMES-JR, LUIZ . Visual Analytics e Outlying Aspect Mining: contextualização de anomalias considerando questões temporais e multidimensionais. In: Escola Regional de Banco de Dados, 2021, Brasil. Anais da XVI Escola Regional de Banco de Dados (ERBD 2021), 2021. p. 21.
 

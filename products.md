@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LLM-MRI
+title: Products
 permalink: /products/
 ---
 
