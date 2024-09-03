@@ -5,16 +5,19 @@
   bio: Dr. Gomes-Jr is a professor at UTFPR and leads the explic.AI project.
 
 - name: Dr. André Santanchè
+  image: /assets/images/none.png
   title: Investigator
   role: Researcher
   bio: Dr. Santanchè is a professor at UNICAMP.
 
 - name: Mateus Raganhan
+  image: /assets/images/none.png
   title: M.Sc. Student
   role: Researcher
   bio: Raganhan is a M.Sc. student at UTFPR researching explainable artifacts that improve our comprehension of how AI systems represent expertise.
 
   - name: Luiz Felipe Corradini
+  image: /assets/images/none.png
   title: BSc Student
   role: Developer/Researcher
   bio: Corradini is a BSc student at Unicamp and is the main developer of the LLM-MRI library.

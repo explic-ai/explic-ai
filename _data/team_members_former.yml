@@ -1,5 +1,12 @@
 - name: MSc. Felipe Benghi
-
+  image: /assets/images/none.png
+  title: M.Sc. Student
+  role: Researcher
+  bio: Benghi was a M.Sc. student at UTFPR researching visual elements for Outlier Aspect Mining.
 
 - name: Dionei Miodutzki
+  image: /assets/images/none.png
+  title: M.Sc. Student
+  role: Researcher
+  bio: Miodutzki was a M.Sc. student at UTFPR researching ontology-based explanations for outlier events.
 
